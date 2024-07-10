@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"common"},{"l":"dao"},{"l":"inventory.resource.tracker"}];updateSearchResults();
